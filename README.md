@@ -5,6 +5,7 @@ Rakendus: Rehvivahetuse broneerimissüsteem
 Testitav keskkond: veebimajutus  
 
 Avalik broneerimisleht: https://rehvivahetusebronn.gt.tc/index.php 
+
 Administraatori sisselogimisleht: https://rehvivahetusebronn.gt.tc/login.php
 
 Testimiseks on loodud eraldi administraatori kasutaja `testadmin`, parooliks `RehvTest2026!`
@@ -70,9 +71,9 @@ Testimiseks kasutatakse järgmisi näidisandmeid:
 | E-post | test@test.ee |
 | Auto | BMW E46 |
 | Registreerimisnumber | 123ABC |
-| Rehvimõõt | 205/55R16 |
+| Velje suurus | 17 |
 | Teenus | Täisvahetus |
-| Lisainfo | Testbroneering koolitöö jaoks |
+| Lisainfo | Testbroneering |
 
 ---
 
